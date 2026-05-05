@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Spinopelvic Analyzer"
+type: software
+
+authors:
+  - family-names: "Sono"
+    given-names: "Takashi"
+
+version: "1.0.0"
+date-released: "2026-05-06"
+
+repository-code: "https://github.com/tsono1-netizen/spinopelvic_app"
+license: "Apache-2.0"
+
+abstract: "A Windows application for measuring spinopelvic parameters including PI, PT, SS, and LL."
+keywords:
+  - spinopelvic parameters
+  - pelvic incidence
+  - pelvic tilt
+  - sacral slope
+  - lumbar lordosis
+  - spine surgery
+  - medical imaging
